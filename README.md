@@ -9,5 +9,5 @@ TCP connections round time trip calculator.
 - [ ] Document source code
 - [ ] Fix linter warnings
 - [ ] Publish RTT analysis to Cloudwatch
-- [ ] Publish RTT analysis to LogStacsh/ElasticSearch
+- [ ] Publish RTT analysis to LogStash/ElasticSearch
 - [ ] Save RTT analysis to file in JSON
